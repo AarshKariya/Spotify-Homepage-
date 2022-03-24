@@ -1,4 +1,4 @@
-# Spotify-Homepage-
+# spotify
 
 ## Project setup
 ```
